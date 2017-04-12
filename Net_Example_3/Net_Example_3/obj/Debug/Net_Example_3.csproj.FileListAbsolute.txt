@@ -1,0 +1,7 @@
+C:\Users\Юрий\Desktop\Net_Example_3\Net_Example_3\bin\Debug\Net_Example_3.exe
+C:\Users\Юрий\Desktop\Net_Example_3\Net_Example_3\bin\Debug\Net_Example_3.pdb
+C:\Users\Юрий\Desktop\Net_Example_3\Net_Example_3\obj\Debug\Net_Example_3.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Net_Example_3\Net_Example_3\obj\Debug\Net_Example_3.exe
+C:\Users\Юрий\Desktop\Net_Example_3\Net_Example_3\obj\Debug\Net_Example_3.pdb
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_3\Net_Example_3\obj\Debug\Net_Example_3.exe
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_3\Net_Example_3\obj\Debug\Net_Example_3.pdb
